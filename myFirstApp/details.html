@@ -1,0 +1,23 @@
+﻿   <div class="row" >
+       <div class="col-md-6 well col-sm-offset-2">
+           <form class="form-signin">
+                <h2 class="form-signin-heading text-muted">Add New details </h2>
+                <div class="form-group" data-ng-class="{error:form.Text.$invalid}">
+                   <label class="control-label" for="Text">To Do</label>
+                   <input type="text" class="form-control" data-ng-model="todo.Text" id="Text" name="Text" placeholder="Enter Task"/>
+               </div>
+               <div class="form-group" data-ng-class="{error:form.DueDate.$invalid}">
+                   <label class="control-label" for="DueDate">Due</label>
+                   <input type="date" class="form-control" data-ng-model="todo.DueDate" id="DueDate" name="DueDate" placeholder=""/>
+               </div>
+               <div class="form-group" data-ng-class="{error:form.Priority.$invalid}">
+                   <label class="control-label" for="Priority">Priority</label>
+                   <input type="number" class="form-control" data-ng-model="todo.Priority" id="Priority" name="Priority" placeholder="Priority"/>
+               </div>
+               <div style="top: 40px;position: relative" class="form-group">
+                   <button class="btn btn-primary" data-ng-click="save()">Submit</button>
+                   <a href="#" class="btn btn-danger">Cancel</a>
+               </div>
+            </form>
+       </div>
+   </div>

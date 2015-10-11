@@ -1,0 +1,41 @@
+﻿<div class="row">
+    <div class="col-md-10">
+       <form class="form-inline" role="form" style="margin-top: 10px">
+            <div class="form-group">
+                <label class="sr-only" for="exampleTodo">Filter your data</label>
+                <input type="text" data-ng-model="query.$" id="exampleTodo" class="form-control" placeholder="search" /> 
+                <button class="btn btn-warning" data-ng-click="reset()" type="submit"><i class="fa fa-search"></i></button>
+                <button data-ng-click="query=''; reset()" data-ng-disabled="!query" type="submit" class="btn btn-danger">Reset</button>
+            </div>
+       </form> 
+        <div from="My" greet="audience"></div> 
+        <div class="table-responsive">
+            <table class ="table table-striped table-condensed table-hover">
+                <thead>
+                    <tr>
+                        <td><a data-ng-click="sort('Text')">Todo</a>
+                            <span data-ng-show="sort_order=='Text' && is_desc == true"><i class="fa fa-arrow-up"></i></span>
+                            <span data-ng-show="sort_order=='Text' && is_desc == false"><i class="fa fa-arrow-down"></i></span>
+                        </td>
+                        <td><a data-ng-click="sort('Priority')">Priority</a></td>
+                        <td><a data-ng-click="sort('DueDate')">Due</a></td>
+                        <td><a href="#/new"><i class="fa fa-plus-circle fa-lg"></i></a></td> 
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr data-ng-repeat="todo in todos |filter:query:strict" id="todo_{{todo.Id}}">
+                        <td>{{todo.Text}}</td>
+                        <td>{{todo.Priority}}</td>
+                        <td>{{todo.DueDate|date:mediumDate}}</td>
+                        <td><a data-ng-click="delete()"><i class="fa fa-trash-o fa-lg"></i></a></td>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+       </div>
+</div>
+
+
+
+
+<a data-ng-show="has_more()" data-ng-click="show_more()">Show More</a>

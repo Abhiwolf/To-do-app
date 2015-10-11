@@ -1,0 +1,812 @@
+.icon - large {
+        background - image: url("../img/glyphicons.png");
+        background - position: 24 px 24 px;
+        background - repeat: no - repeat;
+        display: inline - block;
+        height: 28 px;
+        line - height: 28 px;
+        vertical - align: text - bottom;
+        width: 28 px
+    }.icon - large.icon - glass {
+        background - position: 0 0
+    }.icon - large.icon - leaf {
+        background - position: 0 - 34 px
+    }.icon - large.icon - dog {
+        background - position: 0 - 69 px
+    }.icon - large.icon - user {
+        background - position: 0 - 104 px
+    }.icon - large.icon - girl {
+        background - position: 0 - 136 px
+    }.icon - large.icon - car {
+        background - position: 0 - 168 px
+    }.icon - large.icon - user - add {
+        background - position: 0 - 200 px
+    }.icon - large.icon - user - remove {
+        background - position: 0 - 232 px
+    }.icon - large.icon - film {
+        background - position: 0 - 264 px
+    }.icon - large.icon - magic {
+        background - position: 0 - 300 px
+    }.icon - large.icon - envelope {
+        background - position: 0 - 330 px
+    }.icon - large.icon - camera {
+        background - position: 0 - 360 px
+    }.icon - large.icon - heart {
+        background - position: 0 - 390 px
+    }.icon - large.icon - beach - umbrella {
+        background - position: 0 - 422 px
+    }.icon - large.icon - train {
+        background - position: 0 - 457 px
+    }.icon - large.icon - print {
+        background - position: 0 - 494 px
+    }.icon - large.icon - bin {
+        background - position: 0 - 528 px
+    }.icon - large.icon - trash {
+        background - position: 0 - 528 px
+    }.icon - large.icon - music {
+        background - position: 0 - 566 px
+    }.icon - large.icon - note {
+        background - position: 0 - 601 px
+    }.icon - large.icon - cogwheel {
+        background - position: 0 - 636 px
+    }.icon - large.icon - cog {
+        background - position: 0 - 636 px
+    }.icon - large.icon - home {
+        background - position: 0 - 670 px
+    }.icon - large.icon - snowflake {
+        background - position: 0 - 706 px
+    }.icon - large.icon - fire {
+        background - position: 0 - 744 px
+    }.icon - large.icon - cogwheels {
+        background - position: 0 - 780 px
+    }.icon - large.icon - parents {
+        background - position: 0 - 816 px
+    }.icon - large.icon - binoculars {
+        background - position: 0 - 848 px
+    }.icon - large.icon - road {
+        background - position: 0 - 882 px
+    }.icon - large.icon - search {
+        background - position: 0 - 916 px
+    }.icon - large.icon - cars {
+        background - position: 0 - 950 px
+    }.icon - large.icon - pencil {
+        background - position: 0 - 985 px
+    }.icon - large.icon - bus {
+        background - position: 0 - 1020 px
+    }.icon - large.icon - wifi - alt {
+        background - position: 0 - 1055 px
+    }.icon - large.icon - luggage {
+        background - position: 0 - 1091 px
+    }.icon - large.icon - old - man {
+        background - position: 0 - 1128 px
+    }.icon - large.icon - woman {
+        background - position: 0 - 1162 px
+    }.icon - large.icon - file {
+        background - position: 0 - 1194 px
+    }.icon - large.icon - credit {
+        background - position: 0 - 1228 px
+    }.icon - large.icon - airplane, .icon - large.icon - plane {
+        background - position: 0 - 1262 px
+    }.icon - large.icon - notes {
+        background - position: 0 - 1297 px
+    }.icon - large.icon - stats {
+        background - position: 0 - 1332 px
+    }.icon - large.icon - charts {
+        background - position: 0 - 1367 px
+    }.icon - large.icon - pie - chart {
+        background - position: 0 - 1401 px
+    }.icon - large.icon - group {
+        background - position: 0 - 1436 px
+    }.icon - large.icon - keys {
+        background - position: 0 - 1468 px
+    }.icon - large.icon - calendar {
+        background - position: 0 - 1504 px
+    }.icon - large.icon - router {
+        background - position: 0 - 1539 px
+    }.icon - large.icon - camera - small {
+        background - position: 0 - 1575 px
+    }.icon - large.icon - dislikes {
+        background - position: 0 - 1609 px
+    }.icon - large.icon - star - empty {
+        background - position: 0 - 1609 px
+    }.icon - large.icon - star {
+        background - position: 0 - 1643 px
+    }.icon - large.icon - link {
+        background - position: 0 - 1677 px
+    }.icon - large.icon - eye - open {
+        background - position: -1 px - 1704 px
+    }.icon - large.icon - eye - close {
+        background - position: -1 px - 1737 px
+    }.icon - large.icon - alarm {
+        background - position: 0 - 1771 px
+    }.icon - large.icon - clock {
+        background - position: 0 - 1807 px
+    }.icon - large.icon - time {
+        background - position: 0 - 1807 px
+    }.icon - large.icon - stopwatch {
+        background - position: 0 - 1841 px
+    }.icon - large.icon - projector {
+        background - position: 0 - 1878 px
+    }.icon - large.icon - history {
+        background - position: 0 - 1913 px
+    }.icon - large.icon - truck {
+        background - position: 0 - 1949 px
+    }.icon - large.icon - cargo {
+        background - position: 0 - 1986 px
+    }.icon - large.icon - compass {
+        background - position: -46 px 0
+    }.icon - large.icon - keynote {
+        background - position: -46 px - 34 px
+    }.icon - large.icon - attach {
+        background - position: -46 px - 74 px
+    }.icon - large.icon - power {
+        background - position: -46 px - 108 px
+    }.icon - large.icon - off {
+        background - position: -46 px - 108 px
+    }.icon - large.icon - lightbulb {
+        background - position: -46 px - 142 px
+    }.icon - large.icon - tag {
+        background - position: -46 px - 178 px
+    }.icon - large.icon - tags {
+        background - position: -46 px - 212 px
+    }.icon - large.icon - cleaning {
+        background - position: -46 px - 246 px
+    }.icon - large.icon - ruller {
+        background - position: -46 px - 281 px
+    }.icon - large.icon - gift {
+        background - position: -46 px - 305 px
+    }.icon - large.icon - umbrella {
+        background - position: -46 px - 340 px
+    }.icon - large.icon - book {
+        background - position: -46 px - 378 px
+    }.icon - large.icon - bookmark {
+        background - position: -44 px - 412 px
+    }.icon - large.icon - signal {
+        background - position: -46 px - 446 px
+    }.icon - large.icon - cup {
+        background - position: -46 px - 479 px
+    }.icon - large.icon - stroller {
+        background - position: -46 px - 513 px
+    }.icon - large.icon - headphones {
+        background - position: -46 px - 549 px
+    }.icon - large.icon - headset {
+        background - position: -46 px - 583 px
+    }.icon - large.icon - warning - sign {
+        background - position: -46 px - 621 px
+    }.icon - large.icon - signal {
+        background - position: -46 px - 655 px
+    }.icon - large.icon - retweet {
+        background - position: -47 px - 680 px
+    }.icon - large.icon - refresh {
+        background - position: -46 px - 714 px
+    }.icon - large.icon - roundabout {
+        background - position: -46 px - 750 px
+    }.icon - large.icon - random {
+        background - position: -46 px - 787 px
+    }.icon - large.icon - heat {
+        background - position: -46 px - 817 px
+    }.icon - large.icon - repeat {
+        background - position: -46 px - 852 px
+    }.icon - large.icon - display {
+        background - position: -46 px - 888 px
+    }.icon - large.icon - log - book {
+        background - position: -46 px - 922 px
+    }.icon - large.icon - adress - book {
+        background - position: -46 px - 956 px
+    }.icon - large.icon - magnet {
+        background - position: -46 px - 990 px
+    }.icon - large.icon - table {
+        background - position: -46 px - 1023 px
+    }.icon - large.icon - adjust {
+        background - position: -46 px - 1057 px
+    }.icon - large.icon - tint {
+        background - position: -46 px - 1093 px
+    }.icon - large.icon - crop {
+        background - position: -46 px - 1129 px
+    }.icon - large.icon - vector - path - square {
+        background - position: -46 px - 1165 px
+    }.icon - large.icon - vector - path - circle {
+        background - position: -46 px - 1199 px
+    }.icon - large.icon - vector - path - polygon {
+        background - position: -46 px - 1233 px
+    }.icon - large.icon - vector - path - line {
+        background - position: -46 px - 1268 px
+    }.icon - large.icon - vector - path - curve {
+        background - position: -46 px - 1302 px
+    }.icon - large.icon - vector - path - all {
+        background - position: -46 px - 1336 px
+    }.icon - large.icon - font {
+        background - position: -46 px - 1370 px
+    }.icon - large.icon - italic {
+        background - position: -46 px - 1403 px
+    }.icon - large.icon - bold {
+        background - position: -46 px - 1437 px
+    }.icon - large.icon - text - underline {
+        background - position: -46 px - 1471 px
+    }.icon - large.icon - text - strike {
+        background - position: -46 px - 1505 px
+    }.icon - large.icon - text - height {
+        background - position: -46 px - 1537 px
+    }.icon - large.icon - text - width {
+        background - position: -46 px - 1571 px
+    }.icon - large.icon - text - resize {
+        background - position: -46 px - 1605 px
+    }.icon - large.icon - left - indent, .icon - large.icon - indent - left {
+        background - position: -46 px - 1641 px
+    }.icon - large.icon - right - indent, .icon - large.icon - indent - right {
+        background - position: -46 px - 1673 px
+    }.icon - large.icon - align - left {
+        background - position: -46 px - 1705 px
+    }.icon - large.icon - align - center {
+        background - position: -46 px - 1736 px
+    }.icon - large.icon - align - right {
+        background - position: -46 px - 1767 px
+    }.icon - large.icon - justify {
+        background - position: -46 px - 1798 px
+    }.icon - large.icon - align - justify {
+        background - position: -46 px - 1798 px
+    }.icon - large.icon - list {
+        background - position: -46 px - 1829 px
+    }.icon - large.icon - text - smaller {
+        background - position: -46 px - 1860 px
+    }.icon - large.icon - text - bigger {
+        background - position: -46 px - 1886 px
+    }.icon - large.icon - embed {
+        background - position: -47 px - 1910 px
+    }.icon - large.icon - embed - close {
+        background - position: -47 px - 1940 px
+    }.icon - large.icon - adjust {
+        background - position: -46 px - 1976 px
+    }.icon - large.icon - message - full {
+        background - position: -92 px 0
+    }.icon - large.icon - message - empty {
+        background - position: -92 px - 38 px
+    }.icon - large.icon - message - in {
+        background - position: -92 px - 76 px
+    }.icon - large.icon - message - out {
+        background - position: -92 px - 114 px
+    }.icon - large.icon - message - plus {
+        background - position: -92 px - 152 px
+    }.icon - large.icon - message - minus {
+        background - position: -92 px - 185 px
+    }.icon - large.icon - message - ban {
+        background - position: -92 px - 218 px
+    }.icon - large.icon - message - flag {
+        background - position: -92 px - 251 px
+    }.icon - large.icon - message - lock {
+        background - position: -92 px - 284 px
+    }.icon - large.icon - message - new {
+        background - position: -92 px - 318 px
+    }.icon - large.icon - inbox {
+        background - position: -92 px - 350 px
+    }.icon - large.icon - inbox - plus {
+        background - position: -92 px - 383 px
+    }.icon - large.icon - inbox - minus {
+        background - position: -92 px - 420 px
+    }.icon - large.icon - inbox - lock {
+        background - position: -92 px - 457 px
+    }.icon - large.icon - inbox - in {
+        background - position: -92 px - 495 px
+    }.icon - large.icon - inbox - out {
+        background - position: -92 px - 531 px
+    }.icon - large.icon - computer - locked {
+        background - position: -92 px - 567 px
+    }.icon - large.icon - computer - service {
+        background - position: -92 px - 601 px
+    }.icon - large.icon - computer - proces {
+        background - position: -92 px - 635 px
+    }.icon - large.icon - phone {
+        background - position: -92 px - 669 px
+    }.icon - large.icon - database - lock {
+        background - position: -92 px - 704 px
+    }.icon - large.icon - database - plus {
+        background - position: -92 px - 742 px
+    }.icon - large.icon - database - minus {
+        background - position: -92 px - 779 px
+    }.icon - large.icon - database - ban {
+        background - position: -92 px - 816 px
+    }.icon - large.icon - folder - open {
+        background - position: -92 px - 853 px
+    }.icon - large.icon - folder - plus {
+        background - position: -92 px - 885 px
+    }.icon - large.icon - folder - minus {
+        background - position: -92 px - 920 px
+    }.icon - large.icon - folder - lock {
+        background - position: -92 px - 955 px
+    }.icon - large.icon - folder - flag {
+        background - position: -92 px - 991 px
+    }.icon - large.icon - folder - new {
+        background - position: -92 px - 1026 px
+    }.icon - large.icon - check {
+        background - position: -92 px - 1060 px
+    }.icon - large.icon - edit {
+        background - position: -92 px - 1088 px
+    }.icon - large.icon - new - window {
+        background - position: -92 px - 1119 px
+    }.icon - large.icon - more - windows {
+        background - position: -92 px - 1151 px
+    }.icon - large.icon - show - big - thumbnails {
+        background - position: -92 px - 1184 px
+    }.icon - large.icon - th - large {
+        background - position: -92 px - 1184 px
+    }.icon - large.icon - show - thumbnails {
+        background - position: -92 px - 1216 px
+    }.icon - large.icon - th {
+        background - position: -92 px - 1216 px
+    }.icon - large.icon - show - thumbnails - with - lines {
+        background - position: -92 px - 1248 px
+    }.icon - large.icon - th - list {
+        background - position: -92 px - 1248 px
+    }.icon - large.icon - show - lines {
+        background - position: -92 px - 1273 px
+    }.icon - large.icon - playlist {
+        background - position: -92 px - 1298 px
+    }.icon - large.icon - picture {
+        background - position: -92 px - 1332 px
+    }.icon - large.icon - imac {
+        background - position: -92 px - 1362 px
+    }.icon - large.icon - macbook {
+        background - position: -92 px - 1394 px
+    }.icon - large.icon - ipad {
+        background - position: -92 px - 1419 px
+    }.icon - large.icon - iphone {
+        background - position: -92 px - 1456 px
+    }.icon - large.icon - iphone - transfer {
+        background - position: -92 px - 1490 px
+    }.icon - large.icon - iphone - exchange {
+        background - position: -92 px - 1524 px
+    }.icon - large.icon - ipod {
+        background - position: -92 px - 1558 px
+    }.icon - large.icon - ipod - shuffle {
+        background - position: -92 px - 1590 px
+    }.icon - large.icon - ear - plugs {
+        background - position: -92 px - 1613 px
+    }.icon - large.icon - albums {
+        background - position: -92 px - 1647 px
+    }.icon - large.icon - step - backward {
+        background - position: -92 px - 1675 px
+    }.icon - large.icon - fast - backward {
+        background - position: -92 px - 1703 px
+    }.icon - large.icon - rewind, .icon - large.icon - backwards {
+        background - position: -92 px - 1731 px
+    }.icon - large.icon - play {
+        background - position: -92 px - 1759 px
+    }.icon - large.icon - pause {
+        background - position: -92 px - 1787 px
+    }.icon - large.icon - stop {
+        background - position: -92 px - 1813 px
+    }.icon - large.icon - forward {
+        background - position: -92 px - 1837 px
+    }.icon - large.icon - fast - forward {
+        background - position: -92 px - 1865 px
+    }.icon - large.icon - step - forward {
+        background - position: -92 px - 1893 px
+    }.icon - large.icon - eject {
+        background - position: -92 px - 1921 px
+    }.icon - large.icon - facetime - video {
+        background - position: -92 px - 1948 px
+    }.icon - large.icon - download - alt {
+        background - position: -92 px - 1974 px
+    }.icon - large.icon - mute, .icon - large.icon - volume - off {
+        background - position: -138 px 4 px
+    }.icon - large.icon - volume - down {
+        background - position: -134 px - 22 px
+    }.icon - large.icon - volume - up {
+        background - position: -138 px - 52 px
+    }.icon - large.icon - screenshot {
+        background - position: -138 px - 88 px
+    }.icon - large.icon - move {
+        background - position: -138 px - 125 px
+    }.icon - large.icon - more {
+        background - position: -138 px - 159 px
+    }.icon - large.icon - brightness - reduce {
+        background - position: -138 px - 176 px
+    }.icon - large.icon - brightness - increase {
+        background - position: -138 px - 206 px
+    }.icon - large.icon - circle - plus, .icon - large.icon - plus - sign {
+        background - position: -138 px - 240 px
+    }.icon - large.icon - circle - minus, .icon - large.icon - minus - sign {
+        background - position: -138 px - 276 px
+    }.icon - large.icon - circle - remove, .icon - large.icon - remove - sign {
+        background - position: -138 px - 312 px
+    }.icon - large.icon - circle - ok, .icon - large.icon - ok - sign {
+        background - position: -138 px - 348 px
+    }.icon - large.icon - circle - question - mark, .icon - large.icon - question - sign {
+        background - position: -138 px - 384 px
+    }.icon - large.icon - circle - info, .icon - large.icon - info - sign {
+        background - position: -138 px - 420 px
+    }.icon - large.icon - circle - exclamation - mark, .icon - large.icon - exclamation - sign {
+        background - position: -138 px - 456 px
+    }.icon - large.icon - remove {
+        background - position: -138 px - 492 px
+    }.icon - large.icon - ok {
+        background - position: -138 px - 528 px
+    }.icon - large.icon - ban {
+        background - position: -138 px - 564 px
+    }.icon - large.icon - download {
+        background - position: -138 px - 600 px
+    }.icon - large.icon - upload {
+        background - position: -138 px - 636 px
+    }.icon - large.icon - shopping - cart {
+        background - position: -138 px - 672 px
+    }.icon - large.icon - lock {
+        background - position: -138 px - 705 px
+    }.icon - large.icon - unlock {
+        background - position: -138 px - 741 px
+    }.icon - large.icon - electricity {
+        background - position: -138 px - 777 px
+    }.icon - large.icon - cart - out {
+        background - position: -138 px - 811 px
+    }.icon - large.icon - cart - in {
+        background - position: -138 px - 846 px
+    }.icon - large.icon - left - arrow {
+        background - position: -138 px - 880 px
+    }.icon - large.icon - right - arrow {
+        background - position: -138 px - 908 px
+    }.icon - large.icon - down - arrow {
+        background - position: -138 px - 936 px
+    }.icon - large.icon - up - arrow {
+        background - position: -138 px - 966 px
+    }.icon - large.icon - resize - small {
+        background - position: -138 px - 996 px
+    }.icon - large.icon - resize - full {
+        background - position: -138 px - 1030 px
+    }.icon - large.icon - circle - arrow - left {
+        background - position: -138 px - 1064 px
+    }.icon - large.icon - circle - arrow - right {
+        background - position: -138 px - 1100 px
+    }.icon - large.icon - circle - arrow - top, .icon - large.icon - circle - arrow - up {
+        background - position: -138 px - 1136 px
+    }.icon - large.icon - circle - arrow - down {
+        background - position: -138 px - 1172 px
+    }.icon - large.icon - play - button {
+        background - position: -138 px - 1208 px
+    }.icon - large.icon - play - circle {
+        background - position: -138 px - 1208 px
+    }.icon - large.icon - unshare {
+        background - position: -138 px - 1244 px
+    }.icon - large.icon - share {
+        background - position: -138 px - 1272 px
+    }.icon - large.icon - thin - right - arrow, .icon - large.icon - chevron - right {
+        background - position: -138 px - 1300 px
+    }.icon - large.icon - thin - arrow - left, .icon - large.icon - chevron - left {
+        background - position: -138 px - 1332 px
+    }.icon - large.icon - bluetooth {
+        background - position: -138 px - 1364 px
+    }.icon - large.icon - euro {
+        background - position: -138 px - 1398 px
+    }.icon - large.icon - usd {
+        background - position: -138 px - 1431 px
+    }.icon - large.icon - bp {
+        background - position: -138 px - 1467 px
+    }.icon - large.icon - moon {
+        background - position: -138 px - 1501 px
+    }.icon - large.icon - sun {
+        background - position: -138 px - 1536 px
+    }.icon - large.icon - cloud {
+        background - position: -138 px - 1570 px
+    }.icon - large.icon - direction {
+        background - position: -138 px - 1597 px
+    }.icon - large.icon - brush {
+        background - position: -138 px - 1633 px
+    }.icon - large.icon - pen {
+        background - position: -138 px - 1666 px
+    }.icon - large.icon - zoom - in {
+        background - position: -138 px - 1700 px
+    }.icon - large.icon - zoom - out {
+        background - position: -138 px - 1735 px
+    }.icon - large.icon - pin {
+        background - position: -138 px - 1770 px
+    }.icon - large.icon - riflescope {
+        background - position: -138 px - 1805 px
+    }.icon - large.icon - rotation - lock {
+        background - position: -138 px - 1840 px
+    }.icon - large.icon - flash {
+        background - position: -138 px - 1874 px
+    }.icon - large.icon - google - maps, .icon - large.icon - map - marker {
+        background - position: -138 px - 1909 px
+    }.icon - large.icon - anchor {
+        background - position: -138 px - 1943 px
+    }.icon - large.icon - conversation {
+        background - position: -138 px - 1978 px
+    }.icon - large.icon - chat {
+        background - position: -184 px 0
+    }.icon - large.icon - male {
+        background - position: -184 px - 29 px
+    }.icon - large.icon - female {
+        background - position: -184 px - 61 px
+    }.icon - large.icon - asterisk {
+        background - position: -184 px - 98 px
+    }.icon - large.icon - divide {
+        background - position: -184 px - 128 px
+    }.icon - large.icon - snorkel - diving {
+        background - position: -184 px - 154 px
+    }.icon - large.icon - scuba - diving {
+        background - position: -184 px - 189 px
+    }.icon - large.icon - oxygen - bottle {
+        background - position: -184 px - 223 px
+    }.icon - large.icon - fins {
+        background - position: -184 px - 260 px
+    }.icon - large.icon - fishes {
+        background - position: -184 px - 297 px
+    }.icon - large.icon - boat {
+        background - position: -184 px - 337 px
+    }.icon - large.icon - delete - point {
+        background - position: -184 px - 371 px
+    }.icon - large.icon - qrcode {
+        background - position: -184 px - 398 px
+    }.icon - large.icon - barcode {
+        background - position: -184 px - 432 px
+    }.icon - large.icon - pool {
+        background - position: -184 px - 466 px
+    }.icon - large.icon - buoy {
+        background - position: -184 px - 500 px
+    }.icon - large.icon - spade {
+        background - position: -184 px - 534 px
+    }.icon - large.icon - bank {
+        background - position: -184 px - 568 px
+    }.icon - large.icon - vcard {
+        background - position: -184 px - 602 px
+    }.icon - large.icon - electrical - plug {
+        background - position: -184 px - 636 px
+    }.icon - large.icon - flag {
+        background - position: -184 px - 671 px
+    }.icon - large.icon - credit - card {
+        background - position: -184 px - 707 px
+    }.icon - large.icon - keyboard - wireless {
+        background - position: -184 px - 736 px
+    }.icon - large.icon - keyboard - wired {
+        background - position: -184 px - 765 px
+    }.icon - large.icon - shield {
+        background - position: -184 px - 800 px
+    }.icon - large.icon - ring {
+        background - position: -184 px - 834 px
+    }.icon - large.icon - cake {
+        background - position: -184 px - 868 px
+    }.icon - large.icon - drink {
+        background - position: -184 px - 902 px
+    }.icon - large.icon - beer {
+        background - position: -184 px - 936 px
+    }.icon - large.icon - fast - food {
+        background - position: -184 px - 970 px
+    }.icon - large.icon - cutlery {
+        background - position: -184 px - 1004 px
+    }.icon - large.icon - pizza {
+        background - position: -184 px - 1038 px
+    }.icon - large.icon - birthday - cake {
+        background - position: -184 px - 1077 px
+    }.icon - large.icon - tablet {
+        background - position: -184 px - 1116 px
+    }.icon - large.icon - settings {
+        background - position: -184 px - 1151 px
+    }.icon - large.icon - bullets {
+        background - position: -184 px - 1185 px
+    }.icon - large.icon - cardio {
+        background - position: -184 px - 1218 px
+    }.icon - large.icon - pants {
+        background - position: -184 px - 1254 px
+    }.icon - large.icon - sweater {
+        background - position: -184 px - 1288 px
+    }.icon - large.icon - fabric {
+        background - position: -184 px - 1322 px
+    }.icon - large.icon - leather {
+        background - position: -184 px - 1354 px
+    }.icon - large.icon - scissors {
+        background - position: -184 px - 1388 px
+    }.icon - large.icon - podium {
+        background - position: -184 px - 1425 px
+    }.icon - large.icon - skull {
+        background - position: -184 px - 1456 px
+    }.icon - large.icon - celebration {
+        background - position: -184 px - 1490 px
+    }.icon - large.icon - tea - kettle {
+        background - position: -184 px - 1525 px
+    }.icon - large.icon - french - press {
+        background - position: -184 px - 1558 px
+    }.icon - large.icon - coffe - cup {
+        background - position: -184 px - 1593 px
+    }.icon - large.icon - pot {
+        background - position: -184 px - 1622 px
+    }.icon - large.icon - grater {
+        background - position: -184 px - 1654 px
+    }.icon - large.icon - kettle {
+        background - position: -184 px - 1688 px
+    }.icon - large.icon - hospital {
+        background - position: -184 px - 1722 px
+    }.icon - large.icon - hospital - h {
+        background - position: -184 px - 1756 px
+    }.icon - large.icon - microphone {
+        background - position: -184 px - 1790 px
+    }.icon - large.icon - webcam {
+        background - position: -184 px - 1824 px
+    }.icon - large.icon - temple - christianity - church {
+        background - position: -184 px - 1858 px
+    }.icon - large.icon - temple - islam {
+        background - position: -184 px - 1893 px
+    }.icon - large.icon - temple - hindu {
+        background - position: -184 px - 1927 px
+    }.icon - large.icon - temple - buddhist {
+        background - position: -184 px - 1961 px
+    }.icon - large.icon - electrical - socket - eu {
+        background - position: -230 px 0
+    }.icon - large.icon - electrical - socket - us {
+        background - position: -230 px - 33 px
+    }.icon - large.icon - bomb {
+        background - position: -230 px - 66 px
+    }.icon - large.icon - comments, .icon - large.icon - comment {
+        background - position: -230 px - 102 px
+    }.icon - large.icon - flower {
+        background - position: -230 px - 135 px
+    }.icon - large.icon - baseball {
+        background - position: -230 px - 170 px
+    }.icon - large.icon - rugby {
+        background - position: -230 px - 206 px
+    }.icon - large.icon - ax {
+        background - position: -230 px - 240 px
+    }.icon - large.icon - table - tennis {
+        background - position: -230 px - 275 px
+    }.icon - large.icon - bowling {
+        background - position: -230 px - 309 px
+    }.icon - large.icon - tree - conifer {
+        background - position: -230 px - 343 px
+    }.icon - large.icon - tree - deciduous {
+        background - position: -230 px - 377 px
+    }.icon - large.icon - sort {
+        background - position: -230 px - 412 px
+    }.icon - large.icon - filter {
+        background - position: -230 px - 447 px
+    }.icon - large.icon - gamepad {
+        background - position: -230 px - 481 px
+    }.icon - large.icon - playing - dices {
+        background - position: -230 px - 510 px
+    }.icon - large.icon - calculator {
+        background - position: -230 px - 543 px
+    }.icon - large.icon - tie {
+        background - position: -230 px - 577 px
+    }.icon - large.icon - wallet {
+        background - position: -230 px - 613 px
+    }.icon - large.icon - share {
+        background - position: -230 px - 643 px
+    }.icon - large.icon - sampler {
+        background - position: -230 px - 675 px
+    }.icon - large.icon - piano {
+        background - position: -230 px - 707 px
+    }.icon - large.icon - web - browser {
+        background - position: -230 px - 741 px
+    }.icon - large.icon - blog {
+        background - position: -230 px - 773 px
+    }.icon - large.icon - dashboard {
+        background - position: -230 px - 806 px
+    }.icon - large.icon - certificate {
+        background - position: -230 px - 840 px
+    }.icon - large.icon - bell {
+        background - position: -230 px - 875 px
+    }.icon - large.icon - candle {
+        background - position: -230 px - 909 px
+    }.icon - large.icon - pin - classic {
+        background - position: -230 px - 944 px
+    }.icon - large.icon - iphone - shake {
+        background - position: -230 px - 978 px
+    }.icon - large.icon - pin - flag {
+        background - position: -230 px - 1012 px
+    }.icon - large.icon - turtle {
+        background - position: -230 px - 1044 px
+    }.icon - large.icon - rabbit {
+        background - position: -230 px - 1070 px
+    }.icon - large.icon - globe {
+        background - position: -230 px - 1102 px
+    }.icon - large.icon - briefcase {
+        background - position: -230 px - 1136 px
+    }.icon - large.icon - hdd {
+        background - position: -230 px - 1167 px
+    }.icon - large.icon - thumbs - up {
+        background - position: -230 px - 1198 px
+    }.icon - large.icon - thumbs - down {
+        background - position: -230 px - 1229 px
+    }.icon - large.icon - hand - right {
+        background - position: -230 px - 1260 px
+    }.icon - large.icon - hand - left {
+        background - position: -230 px - 1289 px
+    }.icon - large.icon - hand - up {
+        background - position: -230 px - 1318 px
+    }.icon - large.icon - hand - down {
+        background - position: -230 px - 1354 px
+    }.icon - large.icon - fullscreen {
+        background - position: -230 px - 1391 px
+    }.icon - large.icon - shopping - bag {
+        background - position: -230 px - 1425 px
+    }.icon - large.icon - book - open {
+        background - position: -230 px - 1461 px
+    }.icon - large.icon - nameplate {
+        background - position: -230 px - 1494 px
+    }.icon - large.icon - nameplate - alt {
+        background - position: -230 px - 1525 px
+    }.icon - large.icon - vases {
+        background - position: -230 px - 1557 px
+    }.icon - large.icon - announcement, .icon - large.icon - bullhorn {
+        background - position: -230 px - 1591 px
+    }.icon - large.icon - dumbbell {
+        background - position: -230 px - 1621 px
+    }.icon - large.icon - suitcase {
+        background - position: -230 px - 1647 px
+    }.icon - large.icon - file -
+    import {
+        background - position: -230 px - 1679 px
+    }.icon - large.icon - file -
+    export {
+        background - position: -230 px - 1713 px
+    }.icon - large.icon - pinterest {
+        background - position: -230 px - 1747 px
+    }.icon - large.icon - dropbox {
+        background - position: -230 px - 1781 px
+    }.icon - large.icon - jolicloud {
+        background - position: -230 px - 1815 px
+    }.icon - large.icon - yahoo {
+        background - position: -230 px - 1849 px
+    }.icon - large.icon - blogger {
+        background - position: -230 px - 1883 px
+    }.icon - large.icon - picasa {
+        background - position: -230 px - 1917 px
+    }.icon - large.icon - amazon {
+        background - position: -230 px - 1951 px
+    }.icon - large.icon - tumblr {
+        background - position: -230 px - 1985 px
+    }.icon - large.icon - wordpress {
+        background - position: -276 px 0
+    }.icon - large.icon - instapaper {
+        background - position: -276 px - 34 px
+    }.icon - large.icon - evernote {
+        background - position: -276 px - 68 px
+    }.icon - large.icon - xing {
+        background - position: -276 px - 102 px
+    }.icon - large.icon - zootool {
+        background - position: -276 px - 136 px
+    }.icon - large.icon - dribbble {
+        background - position: -276 px - 170 px
+    }.icon - large.icon - deviantart {
+        background - position: -276 px - 204 px
+    }.icon - large.icon - read - it - later {
+        background - position: -276 px - 238 px
+    }.icon - large.icon - linked - in {
+        background - position: -276 px - 272 px
+    }.icon - large.icon - forrst {
+        background - position: -276 px - 306 px
+    }.icon - large.icon - pinboard {
+        background - position: -276 px - 340 px
+    }.icon - large.icon - behance {
+        background - position: -276 px - 374 px
+    }.icon - large.icon - github {
+        background - position: -276 px - 408 px
+    }.icon - large.icon - youtube {
+        background - position: -276 px - 442 px
+    }.icon - large.icon - skitch {
+        background - position: -276 px - 476 px
+    }.icon - large.icon - quora {
+        background - position: -276 px - 510 px
+    }.icon - large.icon - google - plus {
+        background - position: -276 px - 544 px
+    }.icon - large.icon - spootify {
+        background - position: -276 px - 578 px
+    }.icon - large.icon - stumbleupon {
+        background - position: -276 px - 612 px
+    }.icon - large.icon - readability {
+        background - position: -276 px - 646 px
+    }.icon - large.icon - facebook {
+        background - position: -276 px - 680 px
+    }.icon - large.icon - twitter - t {
+        background - position: -276 px - 714 px
+    }.icon - large.icon - twitter {
+        background - position: -276 px - 748 px
+    }.icon - large.icon - buzz {
+        background - position: -276 px - 782 px
+    }.icon - large.icon - vimeo {
+        background - position: -276 px - 816 px
+    }.icon - large.icon - flickr {
+        background - position: -276 px - 850 px
+    }.icon - large.icon - last - fm {
+        background - position: -276 px - 884 px
+    }.icon - large.icon - rss {
+        background - position: -276 px - 918 px
+    }.icon - large.icon - skype {
+        background - position: -276 px - 952 px
+    }
